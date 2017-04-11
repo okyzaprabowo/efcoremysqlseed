@@ -1,6 +1,6 @@
 # Simple Entity Framework Core MySQL Configuration
 
-Basic configuration Entity Framework Core MySQL using Visual Studio Community 2017
+Basic configuration 3-Tier Approach Entity Framework Core MySQL using Visual Studio Community 2017.
 
 ### Requirement
 * Visual Studio Community 2017
