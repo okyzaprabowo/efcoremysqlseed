@@ -1,4 +1,4 @@
-# Simple Entity Framework Core MySQL Configuration for Console Application and Web Application
+# Simple Entity Framework Core MySQL Configuration
 
 Basic configuration Entity Framework Core MySQL using Visual Studio Community 2017
 
