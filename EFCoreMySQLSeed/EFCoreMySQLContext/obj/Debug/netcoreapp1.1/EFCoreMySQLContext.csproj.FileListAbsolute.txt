@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2017\Projects\EFCoreMySQLSeed\EFCoreMySQLContext\bin\Debug\netcoreapp1.1\EFCoreMySQLContext.deps.json
+c:\users\user\documents\visual studio 2017\Projects\EFCoreMySQLSeed\EFCoreMySQLContext\bin\Debug\netcoreapp1.1\EFCoreMySQLContext.runtimeconfig.json
+c:\users\user\documents\visual studio 2017\Projects\EFCoreMySQLSeed\EFCoreMySQLContext\bin\Debug\netcoreapp1.1\EFCoreMySQLContext.runtimeconfig.dev.json
+c:\users\user\documents\visual studio 2017\Projects\EFCoreMySQLSeed\EFCoreMySQLContext\bin\Debug\netcoreapp1.1\EFCoreMySQLContext.dll
+c:\users\user\documents\visual studio 2017\Projects\EFCoreMySQLSeed\EFCoreMySQLContext\obj\Debug\netcoreapp1.1\EFCoreMySQLContext.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\EFCoreMySQLSeed\EFCoreMySQLContext\obj\Debug\netcoreapp1.1\EFCoreMySQLContext.AssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2017\Projects\EFCoreMySQLSeed\EFCoreMySQLContext\bin\Debug\netcoreapp1.1\EFCoreMySQLContext.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\EFCoreMySQLSeed\EFCoreMySQLContext\obj\Debug\netcoreapp1.1\EFCoreMySQLContext.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\EFCoreMySQLSeed\EFCoreMySQLContext\obj\Debug\netcoreapp1.1\EFCoreMySQLContext.pdb
